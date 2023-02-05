@@ -7,7 +7,7 @@
 
 function isCheckNum(num){
     const transStr = String(num);
-    if (num > 100){
+    if (num >= 100){
     return Number(transStr[1])
     }
   }

@@ -15,4 +15,3 @@ function isCheckNum(num){
   console.log(isCheckNum(78));
   console.log(isCheckNum(32679));
 
-  
